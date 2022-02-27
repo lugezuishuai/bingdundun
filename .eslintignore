@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+public
+bin
+config
+typings.d.ts
+# 不校验隐藏文件
+.*
+*.d.ts
