@@ -83,7 +83,7 @@ module.exports = {
       'process.env': JSON.stringify(process.env),
     }),
     new HtmlWebpackPlugin({
-      title: 'bingdundun',
+      title: '冰墩墩',
       template: './public/index.html',
       favicon: './public/favicon.ico',
       filename: 'index.html',

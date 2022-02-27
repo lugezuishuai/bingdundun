@@ -415,7 +415,7 @@ export default class Olympic extends React.Component {
         {this.state.loadingProcess !== 100 && (
           <div className="olympic_loading">
             <div className="box">{this.state.loadingProcess} %</div>
-            <div className="olympic_loading__name">Design By Huang Donglu</div>
+            <div className="olympic_loading__name">Designed By Huang Donglu</div>
           </div>
         )
         }
